@@ -9,6 +9,11 @@
 @import url(steam/TopBar.css);
 @import url(TitleBar.css);
 @import './reservedWebkitColors.css';
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
+
+* {
+    font-family: "JetBrains Mono";
+}
 
 ::-webkit-scrollbar{
     background-color: transparent !important;
@@ -55,7 +60,7 @@
 }
 
 ._3DEhfTvEKwgLd4smd6QdaU {
-    background: var(--color-light) !important;
+    background: var(--color-debug) !important;
     border-radius: 4px;
 }
 
@@ -71,6 +76,11 @@ img._24_AuLm54JVe1Zc0AApCDR._3d_bT685lnWotXxgzKW6am.yDr03475kalWBTwAE-Rnw {
 
 ._3wJnTtcTLEp0R7eQj_mK8Y {
     display: none !important;
+}
+
+
+._1WdC0YUP8FT0dYWZ-QIVZL {
+ line-height: 17px;   
 }
 
 /* Library Seperator */
@@ -256,7 +266,7 @@ img._24_AuLm54JVe1Zc0AApCDR._3d_bT685lnWotXxgzKW6am.yDr03475kalWBTwAE-Rnw {
 }
 
 ._38t1mljBjmJfqjpVzMT1CG {
-    background: var(--color-light) !important;
+    background: var(--color-dark) !important;
 }
 
 ._1ul9ZRBfhF0vyj-hrit6nU {
@@ -550,7 +560,7 @@ div.NarrowRightPanel .appdetailsprimarylinkssection_LinksSection_3-V8v {
 }
 
 ._1bGewp3tfzqAF6fVTFFUOz .UkR3sY319PuaUNuUWks2K ._2m_orETo6AghzAnc0sISCt:hover {
-    background: var(--color-dark) !important;
+    background: var(--darkergrey) !important;
 }
 
 ._1fuML-ekRbTEzgzC597yGP, ._1fuML-ekRbTEzgzC597yGP pre {

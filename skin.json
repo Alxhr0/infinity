@@ -161,8 +161,8 @@
         {
             "ColorName": "--blacker-ish",
             "Description": "Webkit",
-            "HexColorCode": "#1b1b1b",
-            "OriginalColorCode": "#1b1b1b"
+            "HexColorCode": "#0d1014",
+            "OriginalColorCode": "#0d1014"
         },
         {
             "ColorName": "--blacker",
@@ -179,8 +179,8 @@
         {
             "ColorName": "--darkergrey",
             "Description": "Webkit",
-            "HexColorCode": "#151515",
-            "OriginalColorCode": "#151515"
+            "HexColorCode": "#0d1014",
+            "OriginalColorCode": "#0d1014"
         },
         {
             "ColorName": "--bedarkgrey",
@@ -504,23 +504,20 @@
     "RootColors": "colors.css",
     "Steam-WebKit": "webkit/webkit.css",
     "UseDefaultPatches": true,
-    "author": "ShadowMonster",
-    "description": "A sleek and elegant theme that brings a darker, more immersive experience to your Steam client.",
-    "discord_support": {
-        "inviteCodeExcludingLink": "NcNMP6r2Cw"
-    },
+    "author": "Alxhr0",
+    "description": "Simple and easy on the eyes (Based on simply-dark)",
     "github": {
-        "owner": "shdwmtr",
-        "repo_name": "simply-dark"
+        "owner": "alxhr0",
+        "repo_name": "infinity"
     },
-    "header_image": "https://i.imgur.com/uXtPTnr.png",
-    "name": "Simple Dark.",
-    "splash_image": "https://i.imgur.com/uXtPTnr.png",
+    "header_image": "https://raw.githubusercontent.com/alxhr0/infinity/main/assets/splash.png",
+    "name": "Infinity",
+    "splash_image": "https://raw.githubusercontent.com/alxhr0/infinity/main/assets/splash.png",
     "tags": [
         "Minimal",
         "Dark",
         "Sleek",
         "Compact"
     ],
-    "version": "1.3.2"
+    "version": "1.0"
 }
